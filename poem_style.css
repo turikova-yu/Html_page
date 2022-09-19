@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'a_OldTyper';
+	src: url('fonts/fonts/a_oldtyper.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/fonts/a_oldtyper.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/fonts/a_oldtyper.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/fonts/a_oldtyper.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/fonts/a_oldtyper.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/fonts/a_oldtyper.svg#a_oldtyper') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+
+.name
+{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'a_OldTyper';
+ 
+    
+    
+    
+}
+
+.title
+{
+    font-size: 20px;
+    line-height: 0.8;
+    font-family: 'a_OldTyper';
+    
+    
+}
+
+.poem_text
+{
+    font-size: 20px;
+    line-height: 1.3;
+    margin-left: 500px;
+    font-family: 'a_OldTyper';
+
+}

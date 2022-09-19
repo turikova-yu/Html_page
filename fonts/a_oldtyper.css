@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'a_OldTyper';
+	src: url('../fonts/a_oldtyper.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/a_oldtyper.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/a_oldtyper.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/a_oldtyper.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/a_oldtyper.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/a_oldtyper.svg#a_oldtyper') format('svg'); /* Chrome < 4, Legacy iOS */
+}
